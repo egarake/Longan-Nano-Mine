@@ -3,9 +3,11 @@ Longan Nano Mine Sweeper Game
 
 [Farmwear]
 
-nanomine64KB.bin
+nanomine.zip
 
-nanomine128KB.bin
+ + nanomine64KB.bin
+
+ + nanomine128KB.bin
 
 [Sauce]
 
